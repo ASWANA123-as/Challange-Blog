@@ -29,9 +29,7 @@ function Blog() {
           className="rounded-2xl shadow-lg mb-6"
         />
         <p className="text-lg leading-relaxed text-gray-700">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam quas
-          quod iste sit sed quo doloremque, quam cum odit enim laborum sequi
-          corporis ipsum eum ducimus saepe laboriosam minus reprehenderit.
+          A blog app is a platform or application that allows users to create, organize, and manage blog posts easily. It provides a user-friendly interface for content creation, editing, and publishing. While blogging apps are often powered by different types of content management systems (CMS), their primary purpose is to help users publish content effectively. Additionally, various blogging apps can assist in improving writing and managing social media interactions related to the blog.
         </p>
       </article>
 
